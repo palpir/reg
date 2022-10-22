@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "11@gmail.com",
+      "password": "$2a$10$ryuWCDCJcy/pzOVw3dxCgeEyb4LxmiccM2dv95un95LR4lqiLrFIm",
+      "name": "11@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "111@gmail.com",
+      "password": "$2a$10$0LUYw4DRrgjzELfeb3Tc7.aMaCNzii7t4X2kI/ErLzLX7/H3rT7G6",
+      "name": "111@gmail.com",
+      "balance": 1000,
+      "avatar": "",
+      "products": [],
+      "id": 2
+    },
+    {
+      "email": "43343@gmail.com",
+      "password": "$2a$10$2nYqfTMKo0MQgcliUxYcK.F9Lx9bU72qLtJVqne/PSXQNUe4CHATm",
+      "name": "43343@gmail.com",
+      "balance": 1000,
+      "avatar": "",
+      "products": [],
+      "id": 3
+    }
+  ]
+}
